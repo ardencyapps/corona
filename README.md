@@ -6,5 +6,5 @@ http://ncov.mohw.go.kr/index_main.jsp
 ## lastest (보도자료)
 http://www.mohw.go.kr/react/al/sal0301ls.jsp?PAR_MENU_ID=04&MENU_ID=0403
 
-## 경로
+## notice list경로
 중앙일보
