@@ -1,5 +1,6 @@
 { "url":
 "http://ncov.mohw.go.kr/front_new/modules/img_view.jsp?img_loc=/upload/mwEditor/202002/1580947824636_20200206091024.jpg",
+ "infoUrl":"http://ncov.mohw.go.kr/baroView.do?brdId=&brdGubun=&dataGubun=&ncvContSeq=&contSeq=&board_id=",
  "nowKorea":
  "신종코로나바이러스감염증 국내 발생 현황(2.7일 09시 기준) \n * (확진환자) 24명",
  "nowWorld":
